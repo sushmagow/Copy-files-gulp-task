@@ -1,1 +1,0 @@
-> wingComponent Documentation
