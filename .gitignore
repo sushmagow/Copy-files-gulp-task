@@ -1,0 +1,7 @@
+## Generated files
+#################
+responsive/js/libs/*
+
+## Node
+################
+node_modules
